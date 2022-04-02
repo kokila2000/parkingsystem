@@ -1,0 +1,5 @@
+.thead{
+    background-color: #0e0d0d;
+    clip-path: polygon(0 16%, 100% 0, 100% 84%, 0% 100%);
+    color: white;
+}
